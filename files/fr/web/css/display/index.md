@@ -97,7 +97,7 @@ La propriété `display` est définie à l'aide de mots-clés. Ces valeurs sont 
 
 La spécification de niveau 3 permet d'utiliser deux valeurs pour définir la propriété `display` afin de définir explicitement le type d'affichage intérieur et le type d'affichage extérieur. Toutefois, cette syntaxe sur deux valeurs n'est pas encore prise en charge de façon homogène par les navigateurs.
 
-Les méthodes d'affichage historiques permettent d'obtenir les mêmes résultats avec un seul mot-clé. Ces valeurs devraient être privilégiées tant que la prise en charge de la syntaxe sur deux valeurs n'est pas mieux prise en charge. Ainsi, il est possible d'utiliseur deux valeur afin de définir un conteneur flexible en ligne :
+Les méthodes d'affichage historiques permettent d'obtenir les mêmes résultats avec un seul mot-clé. Ces valeurs devraient être privilégiées tant que la prise en charge de la syntaxe sur deux valeurs n'est pas mieux prise en charge. Ainsi, il est possible d'utiliseur deux valeurs afin de définir un conteneur flexible en ligne :
 
 ```css
 .container {
